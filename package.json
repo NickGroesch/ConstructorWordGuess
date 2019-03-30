@@ -1,0 +1,24 @@
+{
+  "name": "ConstructorWordGuess",
+  "version": "1.0.0",
+  "description": "Homework 9 Optional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickGroesch/ConstructorWordGuess.git"
+  },
+  "keywords": [],
+  "author": "Nick Groesch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickGroesch/ConstructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/NickGroesch/ConstructorWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "nodemon": "^1.18.10"
+  }
+}

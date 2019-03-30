@@ -16,7 +16,7 @@ function Letter(letter) {
 }
 module.exports = Letter;
 
-let letter = new Letter("x");
-letter.check("x");
-console.log(letter);
-console.log(letter.display());
+// let letter = new Letter("x");
+// letter.check("x");
+// console.log(letter);
+// console.log(letter.display());
