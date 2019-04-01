@@ -40,6 +40,4 @@ The completed game meets the following criteria:
 
   - Prompts the user for each guess and keeps track of the user's remaining guesses
 
----
-
-<!-- need to make and include a video or gif -->
+## [Check out the demo here](https://youtu.be/JlaooGbHD7k)!

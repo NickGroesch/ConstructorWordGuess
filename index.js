@@ -41,6 +41,8 @@ function initialize() {
   inquire();
 }
 // initial initialization call
+console.log("ORANGE EDITION");
+
 initialize();
 // this function is the recursive basis of the game, because it is recursive and promise-based nodemon is not required.
 function inquire() {
